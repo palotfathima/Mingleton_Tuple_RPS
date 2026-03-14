@@ -21,7 +21,3 @@ Multiplayer? Scoreboards?
 
 #Closing Statement?
 Proud of how I began my coding with so much headaches (I'm genuinely bad at this)
-
-
-Fathima Palot
-B.Tech Student
